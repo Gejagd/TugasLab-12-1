@@ -1,4 +1,4 @@
-#include "string_vokal.h"
+#include "../include/string_vokal.h"
 #include <iostream>
 #include <string>
 
